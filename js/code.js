@@ -1,7 +1,7 @@
 {
     "gameList": [
         {
-            "imageURL": "images/37A2ACBE-B1B9-4CA7-B322-C9AEEFBB0008.jpeg",
+            "imageURL": "23E043EF-DF3D-4615-99E3-D0032B7D2330.gif",
             "gameName": "Gun Mayhem",
             "onclick": "localStorage.setItem('iframeurl', 'embed.html#https://cyamanz.github.io/play/flash/?swf=gmayhem2.swf'); localStorage.setItem('staturl', './iframe.html')"
         },
