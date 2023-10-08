@@ -1,5 +1,5 @@
 // Load the JSON object
-const jsonData = fetch('games.json').then(response => response.json());
+const jsonData = fetch('/games.json').then(response => response.json());
 
 // Generate the HTML code for the document
 jsonData.then(data => {
