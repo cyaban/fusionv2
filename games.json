@@ -1,4 +1,4 @@
-const json_data = `{
+{
   "gameList": [
     {
       "imageURL": "23E043EF-DF3D-4615-99E3-D0032B7D2330.gif",
@@ -11,9 +11,4 @@ const json_data = `{
       "onclick": "localStorage.setItem('iframeurl', 'embed.html#https://bloxd.io'); localStorage.setItem('staturl', './iframe.html')"
     }
   ]
-}`;
-
-const gameList = JSON.parse(json_data).gameList;
-
-// Do something with the gameList array
-
+}
