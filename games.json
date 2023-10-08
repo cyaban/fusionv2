@@ -1,0 +1,22 @@
+{
+  "swiper-slide": {
+    "box": {
+      "img": {
+        "src": "images/1C15ABFC-CB62-4115-B050-D693649AE1EC.jpeg",
+        "alt": "Pacman"
+      },
+      "box-text": {
+        "h2": "Pacman",
+        "h3": "Action",
+        "a": {
+          "href": "./iframe.html",
+          "onclick": "localStorage.setItem('iframeurl', 'embed.html#https://cyamanz.github.io/play/flash/?swf=pacman.swf'); localStorage.setItem('staturl', './iframe.html')",
+          "class": "box-btn",
+          "i": {
+            "class": "fa-solid fa-download"
+          }
+        }
+      }
+    }
+  }
+}
