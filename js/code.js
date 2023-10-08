@@ -1,11 +1,22 @@
-// Load the JSON object
-const jsonData = fetch('/games.json').then(response => response.json());
-
-// Generate the HTML code for the document
-jsonData.then(data => {
-  const template = Handlebars.compile(document.getElementById('template').innerHTML);
-  const html = template({ data });
-
-  // Add the HTML code to the document body
-  document.querySelector('.swiper-wrapper').innerHTML = html;
-});
+{
+  "swiper-slide": {
+    "box": {
+      "img": {
+        "src": "4DA4DA71-53C4-4920-A2A1-D4ECBCBF2277.gif",
+        "alt": "Pacman"
+      },
+      "box-text": {
+        "h2": "Pacman",
+        "h3": "Action",
+        "a": {
+          "href": "./iframe.html",
+          "onclick": "localStorage.setItem('iframeurl', 'embed.html#https://cyamanz.github.io/play/flash/?swf=pacman.swf'); localStorage.setItem('staturl', './iframe.html')",
+          "class": "box-btn",
+          "i": {
+            "class": "fa-solid fa-download"
+          }
+        }
+      }
+    }
+  }
+}
