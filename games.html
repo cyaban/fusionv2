@@ -1,18 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FUSION</title>
-    <link rel="stylesheet" href="all.css">
-    <link rel="stylesheet" href="games.css">
-    
+  <title>My Games</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js"></script>
+</head>
+<body>
+  <div class="swiper-wrapper">
+    </div>
 
-    <script src="js/code.js"></script>
-    <script src="js/games.js"></script>
+  <script>
+    // Load the JSON object
+    const jsonData = fetch('/games.json').then(response => response.json());
+
+    // Generate the HTML code for the document
+    jsonData.then(data => {
+      const template = Handlebars.compile(document.getElementById('template').innerHTML);
+      const html = template({ data });
+
+      // Add the HTML code to the document body
+      document.querySelector('.swiper-wrapper').innerHTML = html;
+    });
+  </script>
+
+  <script id="template" type="text/x-handlebars-template">
+    {{#each games}}
+      <div class="swiper-slide">
+        <div class="box">
+          <img src="{{img}}" alt="{{alt}}">
+          <div class="box-text">
+            <h2>{{h2}}</h2>
+            <h3>{{h3}}</h3>
+            <a href="{{href}}" onclick="{{onclick}}" class="box-btn"><i class="{{i.class}}"></i></a>
+          </div>
+        </div>
+      </div>
+    {{/each}}
+  </script>
 </body>
 </html>
-
-
- 
