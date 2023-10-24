@@ -1,51 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fusion</title>
-    <link rel="stylesheet" href="css/games.css">
-    <script src="js/games.js"></script>
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
-    <link rel="shortcut icon" href="images/clocky.png">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+
+    <link rel="stylesheet/less" type="text/css" href="./style.less" />
+    <script src="https://cdn.jsdelivr.net/npm/less"></script>
 </head>
+
 <body>
-    <header>
-        <div class="nav container">
-            <a href="index.html" class="logo">Fu<span>sio</span>n</a>
-       <div class="nav-icons">
-        <a href="tabz/index.html" class="btn-1" id="btn-1">Browse</a>
-        <i class="bx bx-download"></i>
-        <div class="menu-icon">
-            <div class="lineA"></div>
-            <div class="lineB"></div>
-            <div class="lineC"></div>
-    
-      </div>
-       </div>
-       <div class="menu">
-        <img src="E98786D7-B719-441A-9343-65B147D1A7C7.gif">
-        <div class="navbar">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="index.html">Games</a></li>
-            <li><a href="settings.html">Settings</a></li>  
-        </div>
-       </div>
-     </div>
-    <body>
+    <nav>
+        <button class="material-icons" to="/">
+            home
+        </button>
+        <button class="material-icons" to="/games.html" active="true">
+            sports_esports
+        </button>
+        <button class="material-icons" to="/store.html">
+            store
+        </button>
+        <div class="divider"></div>
+        <button class="material-icons" to="/settings.html">
+            settings
+        </button>
+        <button class="material-icons" to="/account.html">
+            account_circle
+        </button>
+    </nav>
+
     <main>
-        <h1>FUSION</h1>
-        <p>"weeeeee"</p>
+        <h1 style="margin-bottom: 0;">P1XEL</h1>
+        <sub>a flow works service.</sub>
+        <h2>Featured Games</h2>
+        <div class="games flex-list" id="card-container">
+            <!-- id (card-container) needs to load the javsacript -->
+        </div>
     </main>
+    <script src="/js/game_cards.js"></script>
 </body>
-  
-    
-    
+
 </html>
-
-
-
-
- 
