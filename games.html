@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Games</title>
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 
@@ -15,12 +15,12 @@
 <body>
     <nav>
         <a href="/">
-            <button class="material-icons" active="true">
+            <button class="material-icons">
                 home
             </button>
         </a>
         <a href="/games.html">
-            <button class="material-icons">
+            <button class="material-icons" active="true">
                 sports_esports
             </button>
         </a>
@@ -46,7 +46,11 @@
         <h1 style="margin-bottom: 0;">P1XEL</h1>
         <sub>a flow works service.</sub>
         <h2>Featured Games</h2>
+        <div class="games flex-list" id="card-container">
+            <!-- id (card-container) needs to load the javsacript -->
+        </div>
     </main>
+    <script src="/js/game_cards.js"></script>
 </body>
 
 </html>
