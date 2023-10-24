@@ -1,9 +1,12 @@
 [
-    {
-      "img": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
-      "name": "Subway Surfers",
-      "description": "slayer stay organised",
-      "href": "/play/?subway-surfers",
-      "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
-    }
-  ]
+  {
+    "img": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
+    "name": "Subway Surfers",
+    "description": "slayer stay organised"
+  },
+  {
+    "img": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
+    "name": "Subway Surfers",
+    "description": "slayer stay organised"
+  }
+]
