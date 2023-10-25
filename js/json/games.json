@@ -1,23 +1,9 @@
 [
-  {
-    "img": "/img/games/subway-surfers.jpg",
-    "name": "Subway Surfers",
-    "description": "cool",
-    "href": "/#/play?1",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
-  },
-  {
-    "img": "https://play-lh.googleusercontent.com/V3M-ZVyu4NCOR8oxeHEQSrt5LJhu44xlDtIx-d3YnrPCMEvV-lxPJDyWoJkxsS1Soxsx",
-    "name": "Tomb of the Mask",
-    "description": "cool",
-    "href": "/#/play?2",
-    "embed": "https://nate-games.xyz/0/g/unity/tombmask/"
-  },
-  {
-    "img": "/img/games/tiny-fishing.png",
-    "name": "Tiny Fishing",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "href": "/#/play?3",
-    "embed": "https://cdn.nate-games.xyz/tiny-fishing/"
-  }
-]
+    {
+      "img": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
+      "name": "Subway Surfers",
+      "description": "slayer stay organised",
+      "href": "/play/?subway-surfers",
+      "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
+    }
+  ]
