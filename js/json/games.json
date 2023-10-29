@@ -70,11 +70,11 @@
   "embed": "/games/Dogeminer2/index.html"
 },
 {
-  "img": "/img/ANOTHER_GAME_IMAGE.png",
-  "name": "Another Game",
+  "img": "/img/DA7B308C-4EAA-4E83-B85C-58CF031144E2.webp",
+  "name": "Monkey Mart",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
-  "embed": "/games/another-game/index.html"
+  "embed": "/games/MonkeyMart/index.html"
 }
 ]
 
