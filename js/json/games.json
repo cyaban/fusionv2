@@ -63,18 +63,18 @@
     "embed": "games/DOOMORI"
   },
   {
-    "img": "/img/games/subway-surfers.jpg",
-    "name": "Subway Surfers",
+    "img": "/img/262F92FC-A991-4752-A618-FBF9D4E7E2C0.jpeg",
+    "name": "Doge Miner",
     "description": "cool",
     "href": "/#/play?1",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
+    "embed": "DogeMiner/index.html"
   },
   {
     "img": "/img/148D116A-BCBB-4FB3-B258-8A3690F428EB.png",
-    "name": "10 Minutes After Dawn",
+    "name": "Doge Miner 2",
     "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game to attack the enemies and survive for 10 minutes!",
     "href": "/#/play?2",
-    "embed": "games/10-minutes-till-dawn/index.html"
+    "embed": "games/Dogeminer2/index.html"
   },
   {
     "img": "/img/1.png",
