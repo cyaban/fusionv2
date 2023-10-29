@@ -60,37 +60,38 @@
     "name": "Doge Miner",
     "description": "This is another cool game description.",
     "href": "/#/play?9",
-    "embed": "games/DogeMiner/index.html"
+    "embed": "/games/DogeMiner/index.html"
   },
   {
-  "img": "/img/4A0FAEE7-E59C-4287-A81E-F6F773D17DB4.jpeg",
-  "name": "Doge Miner 2",
-  "description": "This is another cool game description.",
-  "href": "/#/play?9",
-  "embed": "/games/Dogeminer2/index.html"
-},
-{
-  "img": "/img/DA7B308C-4EAA-4E83-B85C-58CF031144E2.webp",
-  "name": "Monkey Mart",
-  "description": "This is another cool game description.",
-  "href": "/#/play?9",
-  "embed": "/games/MonkeyMart/index.html"
-},
-{
-  "img": "/img/3CBF2A36-4125-4B3B-9B2A-5502B93EA193.png",
-  "name": "Rocket Soccer",
-  "description": "This is another cool game description.",
-  "href": "/#/play?9",
-  "embed": "/games/Rocket-League/index.html"
-},
-{
-  "img": "/img/4B8B600B-0612-4FDF-8CF0-0B64588BF640.jpeg",
-  "name": "Dance Of Fire And Ice"
-  "description": "This is another cool game description.",
-  "href": "/#/play?9",
-  "embed": "/games/a-dance-of-fire-and-ice/index.html"
-}
+    "img": "/img/4A0FAEE7-E59C-4287-A81E-F6F773D17DB4.jpeg",
+    "name": "Doge Miner 2",
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/Dogeminer2/index.html"
+  },
+  {
+    "img": "/img/DA7B308C-4EAA-4E83-B85C-58CF031144E2.webp",
+    "name": "Monkey Mart",
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/MonkeyMart/index.html"
+  },
+  {
+    "img": "/img/3CBF2A36-4125-4B3B-9B2A-5502B93EA193.png",
+    "name": "Rocket Soccer",
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/Rocket-League/index.html"
+  },
+  {
+    "img": "/img/4B8B600B-0612-4FDF-8CF0-0B64588BF640.jpeg",
+    "name": "Dance Of Fire And Ice",
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/a-dance-of-fire-and-ice/index.html"
+  }
 ]
+
 
 
 
