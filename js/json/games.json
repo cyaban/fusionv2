@@ -63,11 +63,11 @@
     "embed": "/games/DOOMORI/index.html"
   },
   {
-    "img": "/img/ANOTHER_GAME_IMAGE.png",
-    "name": "Another Game",
+    "img": "/img/262F92FC-A991-4752-A618-FBF9D4E7E2C0.jpeg",
+    "name": "Doge Miner",
     "description": "This is another cool game description.",
     "href": "/#/play?9",
-    "embed": "/games/another-game/index.html"
+    "embed": "games/DogeMiner/index.html"
   }
 ]
 
