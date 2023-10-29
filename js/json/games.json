@@ -35,14 +35,14 @@
     "embed": "games/1v1space"
   },
   {
-    "img": "/img/7F6729C8-1152-4311-8A4B-0B9893FC08CD.png",
+    "img": "7F6729C8-1152-4311-8A4B-0B9893FC08CD.png",
     "name": "2048 MultiTask",
     "description": "cool",
     "href": "/#/play?1",
     "embed": "/2048-multitask/index.html"
   },
   {
-    "img": "/img/A4C54AD4-4B95-4437-B09B-2357A50E78BF.jpeg",
+    "img": "/img/",
     "name": "9007199254740992",
     "description": "",
     "href": "/#/play?2",
