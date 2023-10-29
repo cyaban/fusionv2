@@ -39,14 +39,14 @@
     "name": "2048 MultiTask",
     "description": "cool",
     "href": "/#/play?1",
-    "embed": ""
+    "embed": "/2048-multitask/index.html"
   },
   {
-    "img": "/img/148D116A-BCBB-4FB3-B258-8A3690F428EB.png",
-    "name": "10 Minutes After Dawn",
-    "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game to attack the enemies and survive for 10 minutes!",
+    "img": "/img/A4C54AD4-4B95-4437-B09B-2357A50E78BF.jpeg",
+    "name": "9007199254740992",
+    "description": "",
     "href": "/#/play?2",
-    "embed": "games/10-minutes-till-dawn/index.html"
+    "embed": "games/9007199254740992/index.html"
   },
   {
     "img": "/img/1.png",
