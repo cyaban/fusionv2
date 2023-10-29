@@ -28,18 +28,18 @@
     "embed": "games/1v1lol/index.html"
   },
   {
-    "img": "img/C41A4F05-9249-4F0C-9563-E6EB1784D039.png",
-    "name": "1v1.lol",
+    "img": "img/",
+    "name": "1v1space",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "href": "/#/play?4",
-    "embed": "games/1v1lol/index.html"
+    "embed": "games/1v1space"
   },
   {
-    "img": "/img/games/subway-surfers.jpg",
-    "name": "Subway Surfers",
+    "img": "/img/7F6729C8-1152-4311-8A4B-0B9893FC08CD.png",
+    "name": "2048 MultiTask",
     "description": "cool",
     "href": "/#/play?1",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
+    "embed": ""
   },
   {
     "img": "/img/148D116A-BCBB-4FB3-B258-8A3690F428EB.png",
