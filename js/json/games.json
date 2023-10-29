@@ -70,11 +70,11 @@
     "embed": "games/DogeMiner/index.html"
   },
   {
-  "img": "/img/ANOTHER_GAME_IMAGE.png",
-  "name": "Another Game",
+  "img": "/img/4A0FAEE7-E59C-4287-A81E-F6F773D17DB4.jpeg",
+  "name": "Doge Miner 2",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
-  "embed": "/games/another-game/index.html"
+  "embed": "/games/Dogeminer2/index.html"
 }
 ]
 
