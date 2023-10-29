@@ -1,15 +1,1 @@
-[
-  {
-    "img": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
-    "name": "Subway Surfers",
-    "description": "slayer stay organised",
-    "link": "<a href='iframe.html' onclick=\"localStorage.setItem('iframeurl', 'embed.html#https://lolbeans.io'); localStorage.setItem('staturl', './iframe.html');\">Link Text</a>"
-  },
-  {
-    "img": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg",
-    "name": "Subway Surfers",
-    "description": "slayer stay organised",
-    "link": "<a href='iframe.html' onclick=\"localStorage.setItem('iframeurl', 'google.com'); localStorage.setItem('staturl', './iframe.html');\">Link Text</a>"
-  }
-]
 
