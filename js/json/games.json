@@ -75,6 +75,13 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/MonkeyMart/index.html"
+},
+{
+  "img": "/img/3CBF2A36-4125-4B3B-9B2A-5502B93EA193.png",
+  "name": "Rocket Soccer",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/Rocket-League/index.html"
 }
 ]
 
