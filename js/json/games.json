@@ -7,17 +7,17 @@
     "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
   },
   {
-    "img": "https://play-lh.googleusercontent.com/V3M-ZVyu4NCOR8oxeHEQSrt5LJhu44xlDtIx-d3YnrPCMEvV-lxPJDyWoJkxsS1Soxsx",
-    "name": "Tomb of the Mask",
+    "img": "/img/148D116A-BCBB-4FB3-B258-8A3690F428EB.png",
+    "name": "10 Minutes After Dawn",
     "description": "cool",
     "href": "/#/play?2",
-    "embed": "https://nate-games.xyz/0/g/unity/tombmask/"
+    "embed": "games/10-minutes-till-dawn/index.html"
   },
   {
-    "img": "/img/games/tiny-fishing.png",
-    "name": "Tiny Fishing",
+    "img": "/img/",
+    "name": "1",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "href": "/#/play?3",
-    "embed": "https://cdn.nate-games.xyz/tiny-fishing/"
+    "embed": "games/1/index.html"
   }
 ]
