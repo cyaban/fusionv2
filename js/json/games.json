@@ -75,14 +75,14 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/Dogeminer2/index.html"
-}
+},
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "Another Game",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/another-game/index.html"
-},
+}
 ]
 
 
