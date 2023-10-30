@@ -110,8 +110,16 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/awesometanks2/index.html"
+},
+{
+  "img": "/imgs/B9996EFF-D0F6-4A5E-AA07-1107A6628159.png",
+  "name": "Bacon May Die",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/bacon-may-die/index.html"
 }
-]
+
+
 
 
 
