@@ -96,8 +96,16 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/among-us/index.html"
+},
+{
+  "img": "/img/5B4B7D88-DD77-470B-B1F7-BF7BAC706157.png",
+  "name": "Angry Shark",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/angry-sharks"
 }
-]
+
+
 
 
 
