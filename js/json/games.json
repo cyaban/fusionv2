@@ -131,8 +131,15 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/basket-random/index.html"
+},
+{
+  "img": "/img/BBCDF834-CC0E-4122-A66A-40E432AE0404.png",
+  "name": "Bitlife",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "games/bitlife"
 }
-]
+
 
 
 
