@@ -103,6 +103,13 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/angry-sharks"
+},
+{
+  "img": "/img/A7B6A2E1-5354-4394-9CE8-8E3021B5A023.png",
+  "name": "Awesome Tanks",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/awesometanks2/index.html"
 }
 ]
 
