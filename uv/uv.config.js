@@ -1,7 +1,7 @@
 
 self.__uv$config = {
   prefix: "/uv/service/",
-  bare: "https://bare.starttiw.org",
+  bare: "https://rizzler-yny5.onrender.com/outerspace/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/uv/uv.handler.js",
