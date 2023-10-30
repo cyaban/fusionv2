@@ -124,6 +124,13 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/ballistic-chickens/index.html"
+},
+{
+  "img": "/img/2D8120E0-7EA3-44AB-BD43-C2357C16676B.png",
+  "name": "Basket Random",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/basket-random/index.html"
 }
 ]
 
