@@ -138,9 +138,14 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "games/bitlife"
+},
+{
+  "img": "/img/0821AA33-EBF9-455D-A26E-5F23DE1FB4D5.jpeg",
+  "name": "Bandit.rip",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/embed.html#https://bandit.rip"
 }
-]
-
 
 
 
