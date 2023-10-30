@@ -89,9 +89,15 @@
     "description": "This is another cool game description.",
     "href": "/#/play?9",
     "embed": "/games/a-dance-of-fire-and-ice/index.html"
-  }
+  },
+  {
+  "img": "/img/90D554F5-A2FE-4683-8B58-FF0F1816579D.jpeg",
+  "name": "Among Us",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/among-us/index.html"
+}
 ]
-
 
 
 
