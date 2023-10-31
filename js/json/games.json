@@ -201,6 +201,13 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/embed.html#https://slay3rzz.github.io/abe73a65-8f6c-4704-bdd2-0b61419cec73/content/app-178319.games.s3.yandex.net/178319/7jggo4juixbryp1qqr6335vyl1lshi96/index.html"
+},
+{
+  "img": "/img/6A70C4E9-C65D-4DDC-8401-F2E747BAFFD5.jpeg",
+  "name": "Burgers And Frights",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/burger-and-frights/index.html"
 }
 ]
 
