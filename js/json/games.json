@@ -146,7 +146,14 @@
   "href": "/#/play?9",
   "embed": "/embed.html#https://bandit.rip"
 }
-]
+{
+  "img": "/img/6D7ED212-2135-4990-92E5-EAB6FB9FCA38.jpeg",
+  "name": "Basketball Stars",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/basketball-stars/index.html"
+}
+
 
 
 
