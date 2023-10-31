@@ -208,6 +208,20 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/burger-and-frights/index.html"
+},
+{
+  "img": "/img/3FA6713A-9889-446F-8D43-064D1B598784.png",
+  "name": "Color Switch",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/c6a5892d-3200-4188-a26c-5d5f9fd5b5b6/content/tybsi.com/games/color-switch/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Another Game",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/another-game/index.html"
 }
 ]
 
