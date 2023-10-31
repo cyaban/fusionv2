@@ -243,7 +243,7 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "embed.html#https://cyamanz.github.io/play/cut-the-rope/index.html"
-}
+},
 {
   "img": "/img/A1E738AD-E17D-47BB-B255-3EB1FAE5A51F.png",
   "name": "CS Clicker",
@@ -251,7 +251,7 @@
   "href": "/#/play?9",
   "embed": "/games//csgo-clicker/index.html"
 }
-
+]
 
 
 
