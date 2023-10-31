@@ -249,10 +249,23 @@
   "name": "CS Clicker",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
-  "embed": "/games//csgo-clicker/index.html"
+  "embed": "/games/csgo-clicker/index.html"
+},
+{
+  "img": "/img/0F8B51A9-B1C3-49D7-A9E7-998DBC549D90.jpeg",
+  "name": "Crossy Road",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://crossyroadunblocked.github.io"
+},
+{
+  "img": "/img/71D53915-1F62-4497-8501-C817BAF8F0B9.jpeg",
+  "name": "Dueling Nexus",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://duelingnexus.com"
 }
 ]
-
 
 
 
