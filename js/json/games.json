@@ -264,8 +264,30 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "embed.html#https://duelingnexus.com"
+},  
+{
+  "img": "/img/3DE65EA5-097E-4855-8CE1-51550F1C6A01.jpeg",
+  "name": "Defend The Tank",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/defend-the-tank/index.html"
+},
+{
+  "img": "img/DA1F4C41-7BDC-4B41-85DE-334ECE78689B.jpeg",
+  "name": "Drift Boss",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/drift-boss/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Doom",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/another-game/index.html"
 }
 ]
+
 
 
 
