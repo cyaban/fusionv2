@@ -222,6 +222,20 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "/games/cluster-rush/index.html"
+},
+{
+  "img": "/img/30F8C7A1-EF29-43B5-97EE-48EB9153E2BE.png",
+  "name": "Cookie Clicker",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/cookie-clicker/2021/index.html"
+},
+{
+  "img": "/img/FEB3D9F9-B958-46BC-BBC6-174CCE4A3420.jpeg",
+  "name": "Cubefield",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/cubefield/index.html"
 }
 ]
 
