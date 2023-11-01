@@ -7,36 +7,39 @@ fetch("/js/json/config.json") // Assuming that your config.json file is in the "
       response.json().then(function (fusion) {
         fusion.forEach(function (game) {
           const cards = document.getElementById("card-container");
-          const card = document.createElement("div");
+          const card = document.createElement("a");
           const innerdiv = document.createElement("div");
           card.setAttribute("class", "card");
           const gametext = document.createElement("h3");
           const gameimg = document.createElement("img");
           const gamedesc = document.createElement("p");
-          const wrapper = document.createElement("a");
+          const wrapper = document.createElement("div");
+          const pin = document.createElement("button");
+          const pinlogo = document.createElement("i");
           gametext.innerText = game.name;
           gametext.setAttribute("id", "h3-search");
-
-          const limitdesc =
-            game.description.slice(0, 83) +
-            (game.description.length > 83 ? "..." : "");
-          gamedesc.innerText = limitdesc;
-
+          gamedesc.innerText = game.description;
           gamedesc.setAttribute("class", "card-description");
-          const pin = document.createElement("i");
-          pin.setAttribute("class", "fa-solid fa-location-pin");
-          wrapper.href = game.href;
+          wrapper.setAttribute("class", "card-wrapper");
+          pin.title = "Pin game";
+          pin.appendChild(pinlogo);
+          pinlogo.setAttribute("class", "fa-solid fa-location-pin");
           pin.style.fontSize = "14px";
+          pin.onclick = function () {
+            pinlogo.style.color = "#ff7558";
+            cards.prepend(wrapper);
+          };
           gameimg.src = game.img;
           cards.appendChild(wrapper);
-          wrapper.appendChild(card);
-          wrapper.style.textDecoration = "none"; // remove the stupid underline since its a link
+          card.href = game.href;
           card.appendChild(innerdiv);
           card.prepend(gameimg); // puts at top of inside div, append puts at bottom
           innerdiv.appendChild(gametext);
           innerdiv.appendChild(gamedesc);
-          card.appendChild(pin);
-          wrapper.addEventListener("click", function () {
+          wrapper.appendChild(pin);
+          pin.setAttribute("id", "pin_game");
+          wrapper.prepend(card);
+          card.addEventListener("click", function () {
             setgame(game.embed);
           });
           function setgame(embed) {
