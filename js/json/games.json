@@ -4,8 +4,7 @@
     "name": "Subway Surfers",
     "description": "cool",
     "id": "1",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html",
-    
+    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
   },
   {
     "img": "https://play-lh.googleusercontent.com/V3M-ZVyu4NCOR8oxeHEQSrt5LJhu44xlDtIx-d3YnrPCMEvV-lxPJDyWoJkxsS1Soxsx",
@@ -26,8 +25,7 @@
     "name": "10 Minutes till Dawn",
     "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game to attack the enemies and survive for 10 minutes!",
     "id": "4",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/10-minutes-till-dawn/",
-   
+    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/10-minutes-till-dawn/"
   }
 ]
 
