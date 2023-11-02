@@ -3,101 +3,298 @@
     "img": "/img/games/subway-surfers.jpg",
     "name": "Subway Surfers",
     "description": "cool",
-    "id": "1",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html",
-    "raw_embed": true
+    "href": "/#/play?1",
+    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
   },
   {
-    "img": "https://play-lh.googleusercontent.com/V3M-ZVyu4NCOR8oxeHEQSrt5LJhu44xlDtIx-d3YnrPCMEvV-lxPJDyWoJkxsS1Soxsx",
-    "name": "Tomb of the Mask",
-    "description": "cool",
-    "id": "2",
-    "embed": "https://cdn.nate-games.xyz/tombmask/"
-  },
-  {
-    "img": "/img/games/tiny-fishing.png",
-    "name": "Tiny Fishing",
-    "description": "Lorem ipsum dolor sit amet",
-    "id": "3",
-    "embed": "https://cdn.nate-games.xyz/tiny-fishing/"
-  },
-  {
-    "img": "/img/games/10-minutes-till-dawn.png",
-    "name": "10 Minutes till Dawn",
+    "img": "/img/148D116A-BCBB-4FB3-B258-8A3690F428EB.png",
+    "name": "10 Minutes After Dawn",
     "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game to attack the enemies and survive for 10 minutes!",
-    "id": "4",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/10-minutes-till-dawn/",
-    "raw_embed": true
+    "href": "/#/play?2",
+    "embed": "/games/10-minutes-till-dawn/index.html"
   },
   {
-    "img": "/img/games/1v1lol.png",
-    "name": "1v1.LOL",
-    "description": "cool",
-    "id": "5",
-    "embed": "/games/1v1lol/",
-    "raw_embed": true
-  },
-  {
-    "img": "/img/games/1.png",
+    "img": "/img/1.png",
     "name": "1",
-    "description": "cool",
-    "id": "6",
-    "embed": "/games/1/",
-    "raw_embed": true
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "href": "/#/play?3",
+    "embed": "/games/1/index.html"
   },
   {
-    "img": "/img/games/among-us.jpeg",
-    "name": "Among Us",
-    "description": "cool",
-    "id": "7",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/among-us/",
-    "raw_embed": true
+    "img": "/img/C41A4F05-9249-4F0C-9563-E6EB1784D039.png",
+    "name": "1v1.lol",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "href": "/#/play?4",
+    "embed": "/games/1v1lol/index.html"
   },
   {
-    "img": "/img/games/basket-random.png",
-    "name": "Basket Random",
-    "description": "cool",
-    "id": "8",
-    "embed": "https://cdn.nate-games.xyz/basketrandom/"
+    "img": "/img/1v1space.png",
+    "name": "1v1space",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "href": "/#/play?5",
+    "embed": "/games/1v1space/index.html"
   },
   {
-    "img": "/img/games/bitlife.png",
-    "name": "BitLife",
+    "img": "/img/7F6729C8-1152-4311-8A4B-0B9893FC08CD.png",
+    "name": "2048 MultiTask",
     "description": "cool",
-    "id": "9",
-    "embed": "https://raw.githack.com/nate-games/nate-games.xyz/main/0/g/bitlife/",
-    "raw_embed": true
+    "href": "/#/play?1",
+    "embed": "/2048-multitask/index.html"
   },
   {
-    "img": "/img/games/cookie-clicker.png",
-    "name": "Cookie Clicker",
-    "description": "cool",
-    "id": "10",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/cookie-clicker/",
-    "raw_embed": true
+    "img": "/img/9007199254740992.png",
+    "name": "9007199254740992",
+    "description": "",
+    "href": "/#/play?6",
+    "embed": "/games/9007199254740992/index.html"
   },
   {
-    "img": "/img/games/cluster-rush.png",
-    "name": "Cluster Rush",
-    "description": "cool",
-    "id": "11",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/cluster-rush/",
-    "raw_embed": true
+    "img": "/img/A7A62F7A-13DE-4120-9557-264736411389.png",
+    "name": "99 balls",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "href": "/#/play?7",
+    "embed": "/games/99balls/index.html"
   },
   {
-    "img": "/img/games/driftboss.jpeg",
-    "name": "Drift Boss",
-    "description": "cool",
-    "id": "12",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/drift-boss/",
-    "raw_embed": true
+    "img": "/img/262F92FC-A991-4752-A618-FBF9D4E7E2C0.jpeg",
+    "name": "Doge Miner",
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/DogeMiner/index.html"
   },
   {
-    "img": "/img/games/monkeymart.webp",
+    "img": "/img/4A0FAEE7-E59C-4287-A81E-F6F773D17DB4.jpeg",
+    "name": "Doge Miner 2",
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/Dogeminer2/index.html"
+  },
+  {
+    "img": "/img/DA7B308C-4EAA-4E83-B85C-58CF031144E2.webp",
     "name": "Monkey Mart",
-    "description": "cool",
-    "id": "13",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/MonkeyMart/",
-    "raw_embed": true
-  }
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/MonkeyMart/index.html"
+  },
+  {
+    "img": "/img/3CBF2A36-4125-4B3B-9B2A-5502B93EA193.png",
+    "name": "Rocket Soccer",
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/Rocket-League/index.html"
+  },
+  {
+    "img": "/img/4B8B600B-0612-4FDF-8CF0-0B64588BF640.jpeg",
+    "name": "Dance Of Fire And Ice",
+    "description": "This is another cool game description.",
+    "href": "/#/play?9",
+    "embed": "/games/a-dance-of-fire-and-ice/index.html"
+  },
+  {
+  "img": "/img/90D554F5-A2FE-4683-8B58-FF0F1816579D.jpeg",
+  "name": "Among Us",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/among-us/index.html"
+},
+{
+  "img": "/img/5B4B7D88-DD77-470B-B1F7-BF7BAC706157.png",
+  "name": "Angry Shark",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/angry-sharks"
+},
+{
+  "img": "/img/A7B6A2E1-5354-4394-9CE8-8E3021B5A023.png",
+  "name": "Awesome Tanks",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/awesometanks2/index.html"
+},
+{
+  "img": "/imgs/B9996EFF-D0F6-4A5E-AA07-1107A6628159.png",
+  "name": "Bacon May Die",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/bacon-may-die/index.html"
+},
+{
+  "img": "/img/99B04F9F-4C92-4A08-B3FA-A52EEA93C1E0.jpeg",
+  "name": "Ballistic Chickens",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/ballistic-chickens/index.html"
+},
+{
+  "img": "/img/2D8120E0-7EA3-44AB-BD43-C2357C16676B.png",
+  "name": "Basket Random",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/basket-random/index.html"
+},
+{
+  "img": "/img/BBCDF834-CC0E-4122-A66A-40E432AE0404.png",
+  "name": "Bitlife",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "games/bitlife"
+},
+{
+  "img": "/img/0821AA33-EBF9-455D-A26E-5F23DE1FB4D5.jpeg",
+  "name": "Bandit.rip",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/embed.html#https://bandit.rip"
+},
+{
+  "img": "/img/6D7ED212-2135-4990-92E5-EAB6FB9FCA38.jpeg",
+  "name": "Basketball Stars",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/basketball-stars/index.html"
+},
+{
+  "img": "/img/C11FC1D5-D01D-4AD5-B7EC-A31565462C47.jpeg",
+  "name": "BasketBros",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/embed.html#https://basketbros.io"
+},
+{
+  "img": "/img/09216212-D421-4B3F-B7F5-A55FBDDAF397.jpeg",
+  "name": "BTD 1",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=bloonstd1.swf"
+},
+{
+  "img": "/img/",
+  "name": "BTD 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/another-game/index.html"
+},
+{
+  "img": "/img/36690E76-2282-471C-8778-937871032AA8.jpeg",
+  "name": "Bacon May Die",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/bacon-may-die/index.html"
+},
+{
+  "img": "/img/3292E58C-426F-44F4-9772-4E89CF321247.png",
+  "name": "Basket And Ball",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/basketnball/index.html"
+},
+{
+  "img": "/img/312F4663-7ECE-491D-898C-9905BD1936E9.png",
+  "name": "Bear Scooter",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/https://slay3rzz.github.io/871de59f-c599-44de-ac3a-eec434003f39/content/funkypotato.com/gamez/bear-on-a-scooter/index.html"
+},
+{
+  "img": "/img/90C5AD7F-68E0-4904-860C-D6EA19696661.jpeg",
+  "name": "Bouncing Hell",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/embed.html#https://slay3rzz.github.io/abe73a65-8f6c-4704-bdd2-0b61419cec73/content/app-178319.games.s3.yandex.net/178319/7jggo4juixbryp1qqr6335vyl1lshi96/index.html"
+},
+{
+  "img": "/img/6A70C4E9-C65D-4DDC-8401-F2E747BAFFD5.jpeg",
+  "name": "Burgers And Frights",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/burger-and-frights/index.html"
+},
+{
+  "img": "/img/3FA6713A-9889-446F-8D43-064D1B598784.png",
+  "name": "Color Switch",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/c6a5892d-3200-4188-a26c-5d5f9fd5b5b6/content/tybsi.com/games/color-switch/index.html"
+},
+{
+  "img": "/img/F2E7E5F8-3BB4-4C00-92F5-669E0A03F2E0.jpeg",
+  "name": "Cluster Rush",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/cluster-rush/index.html"
+},
+{
+  "img": "/img/30F8C7A1-EF29-43B5-97EE-48EB9153E2BE.png",
+  "name": "Cookie Clicker",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/cookie-clicker/2021/index.html"
+},
+{
+  "img": "/img/FEB3D9F9-B958-46BC-BBC6-174CCE4A3420.jpeg",
+  "name": "Cubefield",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/cubefield/index.html"
+},
+{
+  "img": "/img/152BD68B-82A9-47BB-AE03-A44F5E08FC45.png",
+  "name": "Cut The Rope",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/cut-the-rope/index.html"
+},
+{
+  "img": "/img/A1E738AD-E17D-47BB-B255-3EB1FAE5A51F.png",
+  "name": "CS Clicker",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/csgo-clicker/index.html"
+},
+{
+  "img": "/img/0F8B51A9-B1C3-49D7-A9E7-998DBC549D90.jpeg",
+  "name": "Crossy Road",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://crossyroadunblocked.github.io"
+},
+{
+  "img": "/img/71D53915-1F62-4497-8501-C817BAF8F0B9.jpeg",
+  "name": "Dueling Nexus",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://duelingnexus.com"
+},  
+{
+  "img": "/img/3DE65EA5-097E-4855-8CE1-51550F1C6A01.jpeg",
+  "name": "Defend The Tank",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/defend-the-tank/index.html"
+},
+{
+  "img": "img/DA1F4C41-7BDC-4B41-85DE-334ECE78689B.jpeg",
+  "name": "Drift Boss",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/drift-boss/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Doom",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "/games/another-game/index.html"
+}
 ]
+
+
+
+
+
+
+
+
+
+
+
