@@ -1,17 +1,17 @@
 [
   {
     "img": "/img/games/subway-surfers.jpg",
-    "name": "Subway Surfers",
+    "name": "[3D]ボールころころ2",
     "description": "cool",
     "id": "1",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
+    "embed": "embed.html#https://scratch.mit.edu/projects/135170508/embed"
   },
   {
     "img": "https://play-lh.googleusercontent.com/V3M-ZVyu4NCOR8oxeHEQSrt5LJhu44xlDtIx-d3YnrPCMEvV-lxPJDyWoJkxsS1Soxsx",
-    "name": "Tomb of the Mask",
+    "name": "2020 Game",
     "description": "cool",
     "id": "2",
-    "embed": "https://cdn.nate-games.xyz/tombmask/"
+    "embed": "embed.html#https://slay3rzz.github.io/2020game/index.html"
   },
   {
     "img": "/img/games/tiny-fishing.png",
