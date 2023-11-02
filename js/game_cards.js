@@ -1,6 +1,6 @@
-fetch("/js/json/config.json") // Assuming that your config.json file is in the "js/json" directory
+fetch("/js/json/config.json") 
   .then(function (response) {
-    return response.json(); // Parse the JSON data
+    return response.json();
   })
   .then(function (config) {
     fetch("/js/json/games.json").then(function (response) {
@@ -25,13 +25,39 @@ fetch("/js/json/config.json") // Assuming that your config.json file is in the "
           pin.appendChild(pinlogo);
           pinlogo.setAttribute("class", "fa-solid fa-location-pin");
           pin.style.fontSize = "14px";
-          pin.onclick = function () {
+          pin.addEventListener("click", function () {
+            setpin(game.id);
+            window.location.reload();
+          });
+
+          function setpin(param) {
+            const pins = JSON.parse(localStorage.getItem("pins")) || [];
+
+            if (pins.includes(param)) {
+              const index = pins.indexOf(param);
+              pins.splice(index, 1);
+            } else {
+              pins.push(param);
+            }
+
+            localStorage.setItem("pins", JSON.stringify(pins));
+            search();
+          }
+
+          const pins = JSON.parse(window.localStorage.getItem("pins")) || [];
+
+          if (pins.includes(game.id)) {
             pinlogo.style.color = "#ff7558";
-            cards.prepend(wrapper);
-          };
+            const pinned = document.getElementById("pinned")
+            pinned.prepend(wrapper);
+          } else {
+            pinlogo.style.color = "#fff";
+            const cards = document.getElementById("card-container");
+            cards.appendChild(wrapper);
+          }
+
           gameimg.src = game.img;
-          cards.appendChild(wrapper);
-          card.href = game.href;
+          card.href = "/#/play?" + game.id;
           card.appendChild(innerdiv);
           card.prepend(gameimg); // puts at top of inside div, append puts at bottom
           innerdiv.appendChild(gametext);
@@ -42,8 +68,14 @@ fetch("/js/json/config.json") // Assuming that your config.json file is in the "
           card.addEventListener("click", function () {
             setgame(game.embed);
           });
-          function setgame(embed) {
-            localStorage.setItem("game-embed", config.fusion_embed + embed);
+          if (game.raw_embed) {
+            function setgame(embed) {
+              localStorage.setItem("game-embed", embed);
+            }
+          } else {
+            function setgame(embed) {
+              localStorage.setItem("game-embed", config.fusion_embed + embed);
+            }
           }
         });
       });
