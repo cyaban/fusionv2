@@ -106,6 +106,20 @@
 },
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "CS Clicker",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://mtsl.dk"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "CS Clicker 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://csgo.mtsl.dk"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "Death Soul",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
