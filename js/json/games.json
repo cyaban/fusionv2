@@ -22,13 +22,61 @@
   },
   {
     "img": "/img/games/10-minutes-till-dawn.png",
-    "name": "10 Minutes till Dawn",
+    "name": "2048 Hacked",
     "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game to attack the enemies and survive for 10 minutes!",
     "id": "4",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/10-minutes-till-dawn/"
-  }
+    "embed": "embed.html#https://slay3rzz.github.io/fa766670-f59d-4b2f-af24-0017ea34eb70/content/geekygames.github.io/2048/index.html"
+  },
+  {
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "8ball",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/8ballbilliardsclassic/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "A Small World Cup",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/fc4e8813-3c89-4a21-bd68-18eb126e4e38/content/v6p9d9t4.ssl.hwcdn.net/html/1643267/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Among Us",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/493aca18-ee76-4134-9267-a72e6f4350f6/content/w8.snokido.com/games/html5/among-us/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Archery World Tour",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/e4c94df6-823f-48ee-bb7a-d63c748de1ae/content/sda.4399.com/4399swf/upload_swf/ftp24/gamehwq/20180316/15b/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Awesome Tanks",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/837e973c-c2fe-4a6d-bd88-697962031ef3/content/w8.snokido.com/games/html5/awesome-tanks-2/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Basket n Ball",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/basketnball/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Bear Scooter",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/871de59f-c599-44de-ac3a-eec434003f39/content/funkypotato.com/gamez/bear-on-a-scooter/index.html"
+}
 ]
-
 
 
 
