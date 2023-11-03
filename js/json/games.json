@@ -75,8 +75,30 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "embed.html#https://slay3rzz.github.io/871de59f-c599-44de-ac3a-eec434003f39/content/funkypotato.com/gamez/bear-on-a-scooter/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Bouncing Hell",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/abe73a65-8f6c-4704-bdd2-0b61419cec73/content/app-178319.games.s3.yandex.net/178319/7jggo4juixbryp1qqr6335vyl1lshi96/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Color Switch",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/c6a5892d-3200-4188-a26c-5d5f9fd5b5b6/content/tybsi.com/games/color-switch/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Color Switch 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/e7385ca8-a374-45a9-8012-1a8cb1b8b937/content/tybsi.com/games/color-switch-challenges-edition/index.html"
 }
 ]
+
 
 
 
