@@ -264,8 +264,23 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "embed.html#https://slay3rzz.github.io/00000protektor/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Rabbit Samurai",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/869b851e-d49f-4c3a-beff-5c44ad6634e4/content/app-97706.games.s3.yandex.net/97706/wnli5t9etefpysyv0ifn074qid5vysrc/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Rabbit Samurai 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://slay3rzz.github.io/3588edab-b06c-4039-a215-55f89e4c1de3/content/app-144506.games.s3.yandex.net/144506/bl9bar1q6etlk3d6uwducphpcx9v24su/index.html"
 }
 ]
+
 
 
 
