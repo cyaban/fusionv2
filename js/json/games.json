@@ -225,6 +225,13 @@
 },
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Pokemon Showdown",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://pokemonshowdown.com"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "Pacman 3D",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
