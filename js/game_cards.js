@@ -1,4 +1,4 @@
-fetch("/js/json/config.json") 
+fetch("/js/json/config.json")
   .then(function (response) {
     return response.json();
   })
@@ -48,7 +48,7 @@ fetch("/js/json/config.json")
 
           if (pins.includes(game.id)) {
             pinlogo.style.color = "#ff7558";
-            const pinned = document.getElementById("pinned")
+            const pinned = document.getElementById("pinned");
             pinned.prepend(wrapper);
           } else {
             pinlogo.style.color = "#fff";
@@ -70,11 +70,11 @@ fetch("/js/json/config.json")
           });
           if (game.raw_embed) {
             function setgame(embed) {
-              localStorage.setItem("game-embed", embed);
+              sessionStorage.setItem("game-embed", embed);
             }
           } else {
             function setgame(embed) {
-              localStorage.setItem("game-embed", config.fusion_embed + embed);
+              sessionStorage.setItem("game-embed", config.fusion_embed + embed);
             }
           }
         });
@@ -84,7 +84,7 @@ fetch("/js/json/config.json")
 
 function search() {
   var input = document.getElementById("card-lookup").value.toLowerCase();
-  var cards = document.getElementsByClassName("card");
+  var cards = document.getElementsByClassName("card-wrapper");
 
   for (var i = 0; i < cards.length; i++) {
     var h3 = cards[i].querySelector("h3").textContent.toLowerCase();
