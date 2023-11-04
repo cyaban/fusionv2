@@ -3,8 +3,11 @@ fetch("/js/json/config.json")
     return response.json();
   })
   .then(function (config) {
-    fetch("/js/json/games.json").then(function (response) {
-      response.json().then(function (fusion) {
+    fetch("/js/json/games.json")
+      .then(function (response) {
+        return response.json();
+      })
+      .then(function (fusion) {
         fusion.forEach(function (game) {
           const cards = document.getElementById("card-container");
           const card = document.createElement("a");
@@ -55,23 +58,25 @@ fetch("/js/json/config.json")
             const cards = document.getElementById("card-container");
             cards.appendChild(wrapper);
           }
+        });
+      });
 
+    function search() {
+      var input = document.getElementById("card-lookup").value.toLowerCase();
+      var cards = document.getElementsByClassName("card-wrapper");
 
-function search() {
-  var input = document.getElementById("card-lookup").value.toLowerCase();
-  var cards = document.getElementsByClassName("card-wrapper");
-
-  for (var i = 0; i < cards.length; i++) {
-    var h3 = cards[i].querySelector("h3").textContent.toLowerCase();
-    if (h3.includes(input)) {
-      cards[i].style.display = "flex";
-    } else {
-      cards[i].style.display = "none";
+      for (var i = 0; i < cards.length; i++) {
+        var h3 = cards[i].querySelector("h3").textContent.toLowerCase();
+        if (h3.includes(input)) {
+          cards[i].style.display = "flex";
+        } else {
+          cards[i].style.display = "none";
+        }
+      }
     }
-  }
-}
 
-document.getElementById("card-lookup").addEventListener("input", search);
-window.addEventListener("load", function () {
-  search();
-});
+    document.getElementById("card-lookup").addEventListener("input", search);
+    window.addEventListener("load", function () {
+      search();
+    });
+  });
