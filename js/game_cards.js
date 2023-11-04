@@ -101,27 +101,5 @@ window.addEventListener("load", function () {
   search();
 });
 
-function search() {
-  var input = document.getElementById("card-lookup").value.toLowerCase();
-  var cards = document.getElementsByClassName("card");
-
-  for (var i = 0; i < cards.length; i++) {
-    var h3 = cards[i].querySelector("h3");
-    var h3Text = h3.textContent.toLowerCase();
-
-    if (h3Text.includes(input)) {
-      cards[i].style.display = "flex";
-      h3.querySelector("i.fa-location-pin").classList.remove("hide");
-    } else {
-      cards[i].style.display = "none";
-      h3.querySelector("i.fa-location-pin").classList.add("hide");
-    }
-  }
-}
-
-document.getElementById("card-lookup").addEventListener("input", search);
-window.addEventListener("load", function () {
-  search();
-});
 
 
