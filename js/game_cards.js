@@ -84,7 +84,7 @@ fetch("/js/json/config.json")
 
 function search() {
   var input = document.getElementById("card-lookup").value.toLowerCase();
-  var cards = document.getElementsByClassName("card");
+  var cards = document.getElementsByClassName("card-wrapper");
 
   for (var i = 0; i < cards.length; i++) {
     var h3 = cards[i].querySelector("h3").textContent.toLowerCase();
