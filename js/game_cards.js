@@ -1,13 +1,10 @@
-fetch("/js/json/config.json")
+fetch("/js/json/config.json") 
   .then(function (response) {
     return response.json();
   })
   .then(function (config) {
-    fetch("/js/json/games.json")
-      .then(function (response) {
-        return response.json();
-      })
-      .then(function (fusion) {
+    fetch("/js/json/games.json").then(function (response) {
+      response.json().then(function (fusion) {
         fusion.forEach(function (game) {
           const cards = document.getElementById("card-container");
           const card = document.createElement("a");
@@ -51,32 +48,56 @@ fetch("/js/json/config.json")
 
           if (pins.includes(game.id)) {
             pinlogo.style.color = "#ff7558";
-            const pinned = document.getElementById("pinned");
+            const pinned = document.getElementById("pinned")
             pinned.prepend(wrapper);
           } else {
             pinlogo.style.color = "#fff";
             const cards = document.getElementById("card-container");
             cards.appendChild(wrapper);
           }
+
+          gameimg.src = game.img;
+          card.href = "/#/play?" + game.id;
+          card.appendChild(innerdiv);
+          card.prepend(gameimg); // puts at top of inside div, append puts at bottom
+          innerdiv.appendChild(gametext);
+          innerdiv.appendChild(gamedesc);
+          wrapper.appendChild(pin);
+          pin.setAttribute("id", "pin_game");
+          wrapper.prepend(card);
+          card.addEventListener("click", function () {
+            setgame(game.embed);
+          });
+          if (game.raw_embed) {
+            function setgame(embed) {
+              localStorage.setItem("game-embed", embed);
+            }
+          } else {
+            function setgame(embed) {
+              localStorage.setItem("game-embed", config.fusion_embed + embed);
+            }
+          }
         });
       });
-
-    function search() {
-      var input = document.getElementById("card-lookup").value.toLowerCase();
-      var cards = document.getElementsByClassName("card-wrapper");
-
-      for (var i = 0; i < cards.length; i++) {
-        var h3 = cards[i].querySelector("h3").textContent.toLowerCase();
-        if (h3.includes(input)) {
-          cards[i].style.display = "flex";
-        } else {
-          cards[i].style.display = "none";
-        }
-      }
-    }
-
-    document.getElementById("card-lookup").addEventListener("input", search);
-    window.addEventListener("load", function () {
-      search();
     });
   });
+
+function search() {
+  var input = document.getElementById("card-lookup").value.toLowerCase();
+  var cards = document.getElementsByClassName("card");
+
+  for (var i = 0; i < cards.length; i++) {
+    var h3 = cards[i].querySelector("h3").textContent.toLowerCase();
+    if (h3.includes(input)) {
+      cards[i].style.display = "flex";
+    } else {
+      cards[i].style.display = "none";
+    }
+  }
+}
+
+document.getElementById("card-lookup").addEventListener("input", search);
+window.addEventListener("load", function () {
+  search();
+});
+
