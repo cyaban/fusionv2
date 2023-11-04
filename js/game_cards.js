@@ -56,31 +56,6 @@ fetch("/js/json/config.json")
             cards.appendChild(wrapper);
           }
 
-          gameimg.src = game.img;
-          card.href = "/#/play?" + game.id;
-          card.appendChild(innerdiv);
-          card.prepend(gameimg); // puts at top of inside div, append puts at bottom
-          innerdiv.appendChild(gametext);
-          innerdiv.appendChild(gamedesc);
-          wrapper.appendChild(pin);
-          pin.setAttribute("id", "pin_game");
-          wrapper.prepend(card);
-          card.addEventListener("click", function () {
-            setgame(game.embed);
-          });
-          if (game.raw_embed) {
-            function setgame(embed) {
-              sessionStorage.setItem("game-embed", embed);
-            }
-          } else {
-            function setgame(embed) {
-              sessionStorage.setItem("game-embed", config.fusion_embed + embed);
-            }
-          }
-        });
-      });
-    });
-  });
 
 function search() {
   var input = document.getElementById("card-lookup").value.toLowerCase();
