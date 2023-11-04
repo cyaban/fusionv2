@@ -239,6 +239,55 @@
 },
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Donkey Kong",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=donkeykong.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Dont Puppy",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=dontshootthepuppy.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Drag Racing",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=dragracing.swf"
+}
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Duck Life",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=ducklife.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Duck Life 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=ducklife2.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Duck Life 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed":"embed.html#https://cyamanz.github.io/play/flash/?swf=ducklife3.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Duck Life 4",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=ducklife4.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "Dont Drop",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
