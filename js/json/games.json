@@ -589,13 +589,6 @@
 },
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
-  "name": "Megaman X",
-  "description": "This is another cool game description.",
-  "href": "/#/play?9",
-  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=megamanprojectx.swf"
-},
-{
-  "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "Metriod Element",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
