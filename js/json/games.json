@@ -869,6 +869,90 @@
 },
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Raft Wars",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=raftwars.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Raft Wars 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=raftwars2.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Raze",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=raze.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Redshift",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=redshift.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Reveanat",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=revenant2.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Riddle School",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=riddleschool1.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Riddle School 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=riddleschool2.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Riddle School 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=riddleschool3.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Riddle School 4",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=riddleschool4.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Riddle School 5",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=riddleschool5.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Riddle School Transfer",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=riddletransfer.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Riddle School Transfer 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=riddletransfer2.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "Slice Sasha",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
