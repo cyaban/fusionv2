@@ -1,17 +1,17 @@
 [
   {
     "img": "/img/games/subway-surfers.jpg",
-    "name": "Subway Surfers",
+    "name": "Crash Bandicoot",
     "description": "cool",
     "href": "/#/play?1",
-    "embed": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html"
+    "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#cbprr"
   },
   {
     "img": "/img/148D116A-BCBB-4FB3-B258-8A3690F428EB.png",
-    "name": "10 Minutes After Dawn",
+    "name": "Crash Bandicoot 2",
     "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game to attack the enemies and survive for 10 minutes!",
     "href": "/#/play?2",
-    "embed": "games/10-minutes-till-dawn/index.html"
+    "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#cb2"
   },
   {
     "img": "/img/1.png",
