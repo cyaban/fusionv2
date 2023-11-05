@@ -1002,6 +1002,20 @@
 },
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Sentry Knight",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=sentryknight.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Shopping Cart Hero",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=shoppingcarthero3.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "The Bowling",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
