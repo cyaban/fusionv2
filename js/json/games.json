@@ -1272,8 +1272,15 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "embed.html#https://cyaban.github.io/launcher.html#advancewars2"
-}
-]
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "test 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#cbprr"
+},
+
 
 
 
