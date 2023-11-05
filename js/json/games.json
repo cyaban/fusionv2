@@ -953,6 +953,48 @@
 },
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tactical Assassin",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=tacticalassassin.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tank Trouble",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=tanktrouble.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tetris",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=tetris.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Game",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=thegame.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Impossible Quiz",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=theimpossiblequiz.swf"
+}
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Impossible Quiz 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/flash/?swf=theimpossiblequiz2.swf"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "UFO Run",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
