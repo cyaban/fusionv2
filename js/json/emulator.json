@@ -327,8 +327,144 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#jlifa"
-}
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Justice League 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#jlhth"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Kingdom Hearts",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#khcom"
+ },
+ {
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Kingdom Hearts",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#khcom"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Kirby",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#kirbymirror"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Kirby 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#kirbynightmare"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Lego Bioncle",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#lb"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Lego Island 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#li2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Lego Racers 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#lr2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Lego Starwars",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#lsw"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Lord Of The Rings",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#lotrtta"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Lord Of The Rings 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#lotr2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Lord Of The Rings 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#lotr3"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Mario And Luigi",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#superstar"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Mario Kart",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#mariokart"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Mario Party",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#marioparty"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Mario Pinball",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#mariopinball"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Mario Vs Donkey Kong",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#mvsdk"
+},
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
