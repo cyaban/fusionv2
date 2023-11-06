@@ -848,6 +848,13 @@
 },
 {
   "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Penalty Kick",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://ubg98.github.io/PenaltyKickOnline/"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
   "name": "Rabbit Samurai",
   "description": "This is another cool game description.",
   "href": "/#/play?9",
