@@ -873,6 +873,265 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#spyro_adventure"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Sypro Adventure 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#spyro_flame"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Super Mario 64",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/sm64/index.html"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Super Mario 64 JS",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Super Mario Advance",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#supermarioadvance"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Super Mario Advance 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#supermarioadvance2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Super Mario Advance 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#supermarioadvance3"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Super Mario Advanced 4",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#supermarioadvance4"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Super Mario Advanced",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#sma4+"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Super Monkey Ball",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#supermonkeyballjr"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Supee Street Fighter",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#super_street_fighter_2_turbo_revival"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Supee Street Fighter II",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#super_street_fighter_3_alpha"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tales Of Phantasia",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#tales_of_phantasia"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tak 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#tak2_staff_of_dreams"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Teenat Ninja Turtle",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#tmnt"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tetris World",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#tetris_worlds"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Game Of Life",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#lyp"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Legend Of Zelda",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#zelda_past"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Legend Of Zelda II",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#zelda_minish"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Mario Land Collection",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#marioland"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Pokemon Collection",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#pokemongb"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Sims",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#sims_bustin_out"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "The Simpsons",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#simpsons"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tony Hawks",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#thas"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tony Hawks 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#thps2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tony Hawks 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#thps3"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Tony Hawks 4",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#thps4"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Top Gear GT",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#tggtc"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Top Gear Rally",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#tgr"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Top Gear Rally 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#tgr"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Turok Evolution",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#turok_evolution"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Ty The Tiger",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#ty2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Ty The Tiger 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#ty2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name":"Ty The Tiger 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#ty3"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Uno",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#unsb"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Wario Land",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#warioland4"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Wario Ware",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#wario_ware"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Ygddra Union",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#ynfa"
 }
 ]
 
