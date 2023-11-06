@@ -446,8 +446,206 @@
   "description": "This is another cool game description.",
   "href": "/#/play?9",
   "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#mvsdk"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Vs Bass",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megamanbass"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Battle",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_battle1"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Battle 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_battle2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Battle 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_battle3_blue"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Battle 4",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_battle4_blue"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megman Battle 5",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_battle4_red"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Battle 6",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_battle6"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Zero",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_zero1"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Zero 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_zero2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Zero 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_zero3"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Megaman Zero 4",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#megaman_zero4"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Metal Slug Advance",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#metalslug"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Metriod Fusion",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#metroid_fusion"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Metriod Zero",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#mzm"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Metriod Mission",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#mzm"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Momotarou",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#momotarou_dentetsu"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Monopoly",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#monopoly"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Monster Force",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#monster_force"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Mortal Kombat",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#mortal_kombat"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Mother 3",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#m3"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "NBA Jam",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#nbaj"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Need For Speed",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#nfsu"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "Need For Speed 2",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#nfsu2"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "NES Hits",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#nesgh1"
+},
+{
+  "img": "/img/ANOTHER_GAME_IMAGE.png",
+  "name": "One Piece",
+  "description": "This is another cool game description.",
+  "href": "/#/play?9",
+  "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#onepiece"
 }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
