@@ -1,0 +1,93 @@
+.title {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.title h4 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--main-color);
+}
+
+.input,
+input[type="text"] {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid var(--main-color);
+    border-radius: 0.3rem;
+    outline: none;
+    font-size: 1rem;
+}
+
+.button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: var(--main-color);
+    color: var(--text-color);
+}
+
+#icon {
+    margin-bottom: 0.5rem;
+}
+
+.btn-container {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.button i {
+    margin-right: 0.5rem;
+}
+
+#background-input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid var(--main-color);
+    border-radius: 0.3rem;
+    outline: none;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.allcards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+#save-button,
+#reset-button,
+button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#save-button i,
+#reset-button i {
+    margin-right: 0.5rem;
+}
+
+#save-button:hover,
+button,
+#reset-button:hover {
+    background-color: var(--main-color);
+    color: var(--text-color);
+}
