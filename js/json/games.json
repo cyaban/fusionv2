@@ -883,18 +883,18 @@
 },
 {
   "img": "/img/new-game.png",
-  "name": "Papas",
+  "name": "Papas Burgeria",
   "description": "A new and exciting game!",
   "href": "/#/play?4",
-  "embed": "games/new-game/index.html"
-}
+  "embed": "embed.html#https://cyaban.github.io/lbannana.github.io/lbannana-assets/flash/index.html?swf=Papas Burgeria.swf"
+},
 {
   "img": "/img/new-game.png",
-  "name": "New Game",
+  "name": "Papas Freeze",
   "description": "A new and exciting game!",
   "href": "/#/play?4",
-  "embed": "games/new-game/index.html"
-}
+  "embed": "embed.html#https://cyaban.github.io/lbannana.github.io/lbannana-assets/flash/index.html?swf=Papas Freezeria.swf"
+},
 {
   "img": "/img/new-game.png",
   "name": "New Game",
