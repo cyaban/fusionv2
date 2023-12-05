@@ -3,7 +3,7 @@
     "img": "/img/games/subway-surfers.jpg",
     "name": "Crash Bandicoot",
     "description": "cool",
-    "href": "/#/play?1",
+    "href": "iframe.html",
     "embed": "embed.html#https://cyamanz.github.io/play/emu/gba/launcher.html#cbprr"
   },
   {
