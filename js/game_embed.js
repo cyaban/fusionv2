@@ -15,10 +15,6 @@ if (window.location.href.startsWith(window.origin + "/#/play?")) {
   iframe.style.height = "100%";
   iframe.style.width = "100%";
   document.body.prepend(iframe);
-
-  // Set the iframe source dynamically
-  const customIframeSource = "iframe.html";
-  iframe.src = customIframeSource;
-
+  iframe.src = localStorage.getItem("game-embed");
   document.querySelector("link[rel='icon']").href = "/img/class.png";
 }
